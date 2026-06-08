@@ -128,16 +128,16 @@ A Python-based AI assistant that uses **Retrieval-Augmented Generation**, **user
 A personalized AI assistant using RAG, vector search, user memory, and behaviour analytics.
 
 **Tech Stack:** Python, Gemini, ChromaDB, Sentence Transformers, Pandas, JSON
-🔗 [Repository Link]
+🔗 [https://github.com/Shrey2005-career/personalized-rag-assistant]
 
 ---
 
-### [Project Name 2]
+### AI Expense Tracker
 
 Short one-line description of your second project.
 
 **Tech Stack:** Add technologies here
-🔗 [Repository Link]
+🔗 [https://github.com/Shrey2005-career/ai-expense-tracker]
 
 ---
 
