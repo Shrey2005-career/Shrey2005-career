@@ -134,7 +134,7 @@ A personalized AI assistant using RAG, vector search, user memory, and behaviour
 
 ### AI Expense Tracker
 
-Short one-line description of your second project.
+A personlized AI expense trakcer to track users' daily, monthly and yearly expenses and manage them.
 
 **Tech Stack:** Add technologies here
 🔗 [https://github.com/Shrey2005-career/ai-expense-tracker]
@@ -144,10 +144,10 @@ Short one-line description of your second project.
 ## 📚 Currently Learning
 
 * Data Structures and Algorithms
-* Full Stack Web Development
-* Backend APIs and Database Design
 * AI/ML project development
 * System design basics
+* AWS
+* Azure & Azure DevOps
 
 ---
 
