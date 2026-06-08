@@ -141,15 +141,6 @@ Short one-line description of your second project.
 
 ---
 
-### [Project Name 3]
-
-Short one-line description of your third project.
-
-**Tech Stack:** Add technologies here
-🔗 [Repository Link]
-
----
-
 ## 📚 Currently Learning
 
 * Data Structures and Algorithms
@@ -177,7 +168,7 @@ I am interested in roles related to:
 
 * **LinkedIn:** [https://www.linkedin.com/in/prajapatishrey/]
 * **Email:** [shreyprajapati.career@gmail.com]
-* **GitHub:** [Add your GitHub profile link]
+* **GitHub:** [https://github.com/Shrey2005-career]
 
 ---
 
