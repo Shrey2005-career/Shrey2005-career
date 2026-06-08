@@ -17,7 +17,7 @@ A Python-based AI assistant that uses **Retrieval-Augmented Generation**, **user
 * Added JSON-based user memory for storing conversations and user activity
 * Used behaviour analytics to personalize responses based on user patterns
 
-🔗 **Project Repository:** [Add your project link here]
+🔗 **Project Repository:** [https://github.com/Shrey2005-career/personalized-rag-assistant]
 
 ---
 
