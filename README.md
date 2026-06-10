@@ -156,7 +156,7 @@ Zod,
 JWT,
 Argon2,
 Cookie Parser,
-CORS,
+CORS
 
 🔗 [https://github.com/Shrey2005-career/ai-expense-tracker]
 
