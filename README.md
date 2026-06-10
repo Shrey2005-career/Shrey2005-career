@@ -136,7 +136,28 @@ A personalized AI assistant using RAG, vector search, user memory, and behaviour
 
 A personlized AI expense trakcer to track users' daily, monthly and yearly expenses and manage them.
 
-**Tech Stack:** Add technologies here
+**Tech Stack:** 
+**Frontend:**
+Next.js 16
+React 19
+TypeScript
+Tailwind CSS 4
+TanStack React Query
+Axios
+Recharts
+
+**Backend:**
+Node.js
+Express.js 5
+TypeScript
+Prisma ORM
+PostgreSQL
+Zod
+JWT
+Argon2
+Cookie Parser
+CORS
+
 🔗 [https://github.com/Shrey2005-career/ai-expense-tracker]
 
 ---
