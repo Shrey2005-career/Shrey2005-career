@@ -138,25 +138,25 @@ A personlized AI expense trakcer to track users' daily, monthly and yearly expen
 
 **Tech Stack:** 
 **Frontend:**
-Next.js 16
-React 19
-TypeScript
-Tailwind CSS 4
-TanStack React Query
-Axios
+Next.js 16,
+React 19,
+TypeScript,
+Tailwind CSS 4,
+TanStack React Query,
+Axios,
 Recharts
 
 **Backend:**
-Node.js
-Express.js 5
-TypeScript
-Prisma ORM
-PostgreSQL
-Zod
-JWT
-Argon2
-Cookie Parser
-CORS
+Node.js,
+Express.js,
+TypeScript,
+Prisma ORM,
+PostgreSQL,
+Zod,
+JWT,
+Argon2,
+Cookie Parser,
+CORS,
 
 🔗 [https://github.com/Shrey2005-career/ai-expense-tracker]
 
