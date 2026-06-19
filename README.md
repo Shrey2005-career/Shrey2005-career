@@ -8,6 +8,24 @@ I enjoy building practical projects that solve real-world problems and help me s
 
 ## 🚀 Featured Project
 
+### Recruiter-copilot
+
+An audit-safe AI copilot for recruiting agencies that explains every candidate recommendation, preserves human control, tracks overrides, and creates client-ready summaries.
+
+* Email + password authentication (JWT)
+* Job creation and management
+* Resume upload (PDF / DOC / DOCX)
+* AI-powered candidate evaluation
+* Automatic applicant filtering:
+* Pending
+* Shortlisted
+* Rejected (soft)
+* Human-confirmed final rejection (non-destructive)
+* Webhook ingestion for external applicant sources
+* Clean frontend workflows using React
+
+🔗 **Project Repository:** [https://github.com/Shrey2005-career/recruiter-copilot]
+
 ### Personalized RAG Assistant
 
 A Python-based AI assistant that uses **Retrieval-Augmented Generation**, **user memory**, and **behaviour analytics** to provide more relevant and personalized answers.
